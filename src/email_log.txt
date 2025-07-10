@@ -1,0 +1,148 @@
+TO: rishi10@gmail.com
+SUBJECT: ⏰ Your Pending Task Reminders
+
+Hi,
+
+Here are your pending tasks:
+- Complete PHP assignment
+- Prepare for technical interview
+
+To unsubscribe from reminders, click here:
+http://localhost/task-scheduler/src/unsubscribe.php?email=cmlzaGkxMEBnbWFpbC5jb20%3D
+----------------
+TO: tetranorax100@gmail.com
+SUBJECT: ⏰ Your Pending Task Reminders
+
+Hi,
+
+Here are your pending tasks:
+- Complete PHP assignment
+- Prepare for technical interview
+
+To unsubscribe from reminders, click here:
+http://localhost/task-scheduler/src/unsubscribe.php?email=dGV0cmFub3JheDEwMEBnbWFpbC5jb20%3D
+----------------
+TO: rishigawade10@gmail.com
+SUBJECT: ⏰ Your Pending Task Reminders
+
+Hi,
+
+Here are your pending tasks:
+- Complete PHP assignment
+- Prepare for technical interview
+
+To unsubscribe from reminders, click here:
+http://localhost/task-scheduler/src/unsubscribe.php?email=cmlzaGlnYXdhZGUxMEBnbWFpbC5jb20%3D
+----------------
+TO: rishig@gmail.com
+SUBJECT: ⏰ Your Pending Task Reminders
+
+Hi,
+
+Here are your pending tasks:
+- Complete PHP assignment
+- Prepare for technical interview
+
+To unsubscribe from reminders, click here:
+http://localhost/task-scheduler/src/unsubscribe.php?email=cmlzaGlnQGdtYWlsLmNvbQ%3D%3D
+----------------
+TO: rishi10@gmail.com
+SUBJECT: ⏰ Your Pending Task Reminders
+
+Hi,
+
+Here are your pending tasks:
+- Complete PHP assignment
+- Prepare for technical interview
+
+To unsubscribe from reminders, click here:
+http://localhost/task-scheduler/src/unsubscribe.php?email=cmlzaGkxMEBnbWFpbC5jb20%3D
+----------------
+TO: rishi10-alt@gmail.com
+SUBJECT: ⏰ Your Pending Task Reminders
+
+Hi,
+
+Here are your pending tasks:
+- Complete PHP assignment
+- Prepare for technical interview
+
+To unsubscribe from reminders, click here:
+http://localhost/task-scheduler/src/unsubscribe.php?email=cmlzaGkxMC1hbHRAZ21haWwuY29t
+----------------
+TO: rishii0@gmail.com
+SUBJECT: ⏰ Your Pending Task Reminders
+
+Hi,
+
+Here are your pending tasks:
+- Complete PHP assignment
+- Prepare for technical interview
+
+To unsubscribe from reminders, click here:
+http://localhost/task-scheduler/src/unsubscribe.php?email=cmlzaGlpMEBnbWFpbC5jb20%3D
+----------------
+TO: rishigawade10@gmail.com
+SUBJECT: ⏰ Your Pending Task Reminders
+
+Hi,
+
+Here are your pending tasks:
+- Complete PHP assignment
+- Prepare for technical interview
+
+To unsubscribe from reminders, click here:
+http://localhost/task-scheduler/src/unsubscribe.php?email=cmlzaGlnYXdhZGUxMEBnbWFpbC5jb20%3D
+----------------
+TO: tetranorax100@gmail.com
+SUBJECT: ⏰ Your Pending Task Reminders
+
+Hi,
+
+Here are your pending tasks:
+- Complete PHP assignment
+- Prepare for technical interview
+
+To unsubscribe from reminders, click here:
+http://localhost/task-scheduler/src/unsubscribe.php?email=dGV0cmFub3JheDEwMEBnbWFpbC5jb20%3D
+----------------
+To: qwer1@gmail.com
+Subject: Verify your email for Task Manager
+
+Hi,
+
+Click below to verify your email:
+http://localhost/task-scheduler/src/verify.php?email=qwer1%40gmail.com&code=799200
+
+Thanks!
+----------------
+To: tetra10@gmail.com
+Subject: Verify your email for Task Manager
+
+Hi,
+
+Click below to verify your email:
+http://localhost/task-scheduler/src/verify.php?email=tetra10%40gmail.com&code=323864
+
+Thanks!
+----------------
+TO: qwer1@gmail.com
+SUBJECT: Verify your email for Task Manager
+
+Hi,
+
+Click below to verify your email:
+http://localhost/task-scheduler/src/verify.php?email=qwer1%40gmail.com&code=538801
+
+Thanks!
+----------------
+TO: rishigawade0@gmail.com
+SUBJECT: Verify your email for Task Manager
+
+Hi,
+
+Click below to verify your email:
+http://localhost/task-scheduler/src/verify.php?email=rishigawade0%40gmail.com&code=404771
+
+Thanks!
+----------------
